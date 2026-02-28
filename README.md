@@ -1,4 +1,3 @@
-# CatRewardFeeder-ESP3AM
 # CatRewardFeeder-ESP32CAM
 智能猫咪饮水奖励系统：用 ESP32-CAM 识别猫是否在喝水，自动打开奖励仓（MG996R 舵机）
 
@@ -33,3 +32,4 @@
    - ESP32Servo
    - TensorFlow Lite for Microcontrollers
 4. 上传 `CatRewardFeeder.ino`
+5. ⚠️ 需要安装 TensorFlow Lite for Microcontrollers 库（通过 Arduino Library Manager 搜索安装）
